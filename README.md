@@ -1,2 +1,9 @@
-# Downloderbot
-Bot downlod
+# Leech Bot
+بوت تليجرام لتحميل الفيديوهات من روابط مباشرة مع دعم الصورة المصغرة.
+
+## التشغيل
+1. ضع API_ID, API_HASH, BOT_TOKEN في المتغيرات البيئية.
+2. شغّل البوت باستخدام:
+```bash
+python3 main.py
+```
